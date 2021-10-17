@@ -1,0 +1,23 @@
+{
+  "name": "tunes",
+  "version": "1.0.0",
+  "description": "Tunes in tsv format that can be rendered by midi-sheet",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlowBubble/tunes.git"
+  },
+  "keywords": [
+    "tunes",
+    "midi-sheet"
+  ],
+  "author": "clubfest",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SlowBubble/tunes/issues"
+  },
+  "homepage": "https://github.com/SlowBubble/tunes#readme"
+}
